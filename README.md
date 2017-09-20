@@ -1,0 +1,2 @@
+# DistinguishPrimeNumber
+DistinguishPrimeNumber
